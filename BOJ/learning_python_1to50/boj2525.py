@@ -1,4 +1,4 @@
-# boj2530 오븐 시계
+# boj2525 오븐 시계
 h, m = map(int, input().split())
 r = int(input())
 m += r 
