@@ -32,6 +32,22 @@
   - [4101 : 크냐?](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj4101.py)
   - [10156 : 과자](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj10156.py)
 
+- 2022.03.04
+
+  - [2476 : 주사위 게임](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj2476.py)
+  - [2754 : 학점 계산](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj2754.py)
+  - [7567 : 그릇](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj7567.py)
+  - [5063 : TGN](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj5063.py)
+  - [10102 : 개표 ](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj10102.py)
+  - [10988 : 팰린드롬인지 확인하기](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj10988.py)
+
+- 2022.03.05
+
+  - [10886 : 0 = not cute / 1 = cute](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj10886.py)
+  - [5086 : 배수와 약수](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj5086.py)
+  - [5717 : 상근이의 친구들](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj5717.py)
+  - [9610 : 사분면](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj9610.py)
+
 ## 프로그래머스
 
 **Lv.1**
@@ -45,8 +61,14 @@
   - [Lv 1 : 핸드폰번호가리기](https://github.com/kyhyun/Algorithm/blob/main/Programmers/Level_1/basic/%ED%95%B8%EB%93%9C%ED%8F%B0%EB%B2%88%ED%98%B8%EA%B0%80%EB%A6%AC%EA%B8%B0.js)
 
 - 2022.03.03 (연습문제)
+
   - [Lv.1 : 문자열 내 마음대로 정렬](https://github.com/kyhyun/Algorithm/blob/main/Programmers/Level_1/basic/%EB%AC%B8%EC%9E%90%EC%97%B4%EC%95%88%EC%97%90%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C%EC%A0%95%EB%A0%AC.js)
   - [Lv.1 : 자연수 뒤집어 배열 만들기](https://github.com/kyhyun/Algorithm/blob/main/Programmers/Level_1/basic/%EC%9E%90%EC%97%B0%EC%88%98%EB%92%A4%EC%A7%91%EC%96%B4%EB%B0%B0%EC%97%B4%EB%A7%8C%EB%93%A4%EA%B8%B0.js)
+
+- 2022.03.05 (연습문제)
+
+  - [Lv.1 : 문자열 내림차순으로 정렬하기](https://github.com/kyhyun/Algorithm/blob/main/Programmers/Level_1/basic/%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%EC%A0%95%EB%A0%AC.js)
+  - [Lv.1 : 문자열 내 p와 y의 개수](https://github.com/kyhyun/Algorithm/blob/main/Programmers/Level_1/basic/%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%B4p%EC%99%80y%EC%9D%98%EA%B0%9C%EC%88%98.js)
 
 ## 릿코드
 
