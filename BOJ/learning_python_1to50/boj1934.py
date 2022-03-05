@@ -1,4 +1,4 @@
-# bod1934 최소공배수
+# boj1934 최소공배수
 def gcd(a,b):
   return a if b == 0 else gcd(b, a % b)
 
