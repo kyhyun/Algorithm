@@ -64,9 +64,9 @@
   - [2444 : 별 찍기 - 7](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B_51to100/boj2444.py)
 
 - 2022.03.28
-  - [1977 : 완전제곱수]()
-  - [2747 : 피보나치 수]()
-  - [10797 : 10부제]()
+  - [1977 : 완전제곱수](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B_51to100/boj1977.py)
+  - [2747 : 피보나치 수](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B_51to100/boj2747.py)
+  - [10797 : 10부제](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B_51to100/boj10797.py)
 
 ## 프로그래머스
 
@@ -95,8 +95,8 @@
   - [Lv.1 : 나누어 떨어지는 숫자 배열](https://github.com/kyhyun/Algorithm/blob/main/Programmers/Level_1/basic/%EB%82%98%EB%88%84%EC%96%B4%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94%EC%88%AB%EC%9E%90%EB%B0%B0%EC%97%B4.js)
 
 - 2022.03.08 (월간 코드 챌린지)
-  - [Lv.1 두 개 뽐아서 더하기]()
-  - [Lv.1 약수의 개수와 덧셈]()
+  - [Lv.1 두 개 뽐아서 더하기](https://github.com/kyhyun/Algorithm/blob/main/Programmers/Level_1/challange/%EB%91%90%EA%B0%9C%EB%BD%91%EC%95%84%EC%84%9C%EB%8D%94%ED%95%98%EA%B8%B0.js)
+  - [Lv.1 약수의 개수와 덧셈](https://github.com/kyhyun/Algorithm/blob/main/Programmers/Level_1/challange/%EC%95%BD%EC%88%98%EC%9D%98%EA%B0%9C%EC%88%98%EC%99%80%EB%8D%A7%EC%85%88.js)
 
 ## 릿코드
 
