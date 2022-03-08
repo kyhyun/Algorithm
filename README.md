@@ -6,8 +6,6 @@
 
 ## 백준 온라인 저지
 
-**파이썬 배우기 1~50**
-
 - 2022.03.01
 
   - [2163 : 초콜릿 자르기](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj2163.py)
@@ -48,6 +46,28 @@
   - [5717 : 상근이의 친구들](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj5717.py)
   - [9610 : 사분면](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj9610.py)
 
+- 2022.03.06
+
+  - [9506 : 약수들의 합](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj9506.py)
+  - [10162 : 전자레인지](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj10162.py)
+  - [10103 : 주사위 게임](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj10103.py)
+  - [10214 : Baseball](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj10214.py)
+
+- 2022.03.27
+
+  - [11557 : Yangjojang of The Year](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj11557.py)
+  - [10757 : 큰 수 A+B ](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj10757.py)
+  - [2440 : 별 찍기 - 3](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B_51to100/boj2440.py)
+  - [2441 : 별 찍기 - 4](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B_51to100/boj2441.py)
+  - [2442 : 별 찍기 - 5](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B_51to100/boj2442.py)
+  - [2443 : 별 찍기 - 6](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B_51to100/boj2443.py)
+  - [2444 : 별 찍기 - 7](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B_51to100/boj2444.py)
+
+- 2022.03.28
+  - [1977 : 완전제곱수]()
+  - [2747 : 피보나치 수]()
+  - [10797 : 10부제]()
+
 ## 프로그래머스
 
 **Lv.1**
@@ -69,6 +89,14 @@
 
   - [Lv.1 : 문자열 내림차순으로 정렬하기](https://github.com/kyhyun/Algorithm/blob/main/Programmers/Level_1/basic/%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%B4%EB%A6%BC%EC%B0%A8%EC%88%9C%EC%9C%BC%EB%A1%9C%EC%A0%95%EB%A0%AC.js)
   - [Lv.1 : 문자열 내 p와 y의 개수](https://github.com/kyhyun/Algorithm/blob/main/Programmers/Level_1/basic/%EB%AC%B8%EC%9E%90%EC%97%B4%EB%82%B4p%EC%99%80y%EC%9D%98%EA%B0%9C%EC%88%98.js)
+
+- 2022.03.06 (연습문제)
+
+  - [Lv.1 : 나누어 떨어지는 숫자 배열](https://github.com/kyhyun/Algorithm/blob/main/Programmers/Level_1/basic/%EB%82%98%EB%88%84%EC%96%B4%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94%EC%88%AB%EC%9E%90%EB%B0%B0%EC%97%B4.js)
+
+- 2022.03.08 (월간 코드 챌린지)
+  - [Lv.1 두 개 뽐아서 더하기]()
+  - [Lv.1 약수의 개수와 덧셈]()
 
 ## 릿코드
 
