@@ -8,65 +8,71 @@
 
 - 2022.03.01
 
-  - [2163 : 초콜릿 자르기](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj2163.py)
-  - [2525 : 오븐 시계](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj2525.py)
-  - [2530 : 인공지능 시계](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj2530.py)
-  - [2914 : 저작권](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj2914.py)
-  - [5355 : 화성수학](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj5355.py)
+  - [2163 : 초콜릿 자르기](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj2163.py)
+  - [2525 : 오븐 시계](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj2525.py)
+  - [2530 : 인공지능 시계](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj2530.py)
+  - [2914 : 저작권](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj2914.py)
+  - [5355 : 화성수학](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj5355.py)
 
 - 2022.03.02
 
-  - [2935 : 소음](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj2935.py)
-  - [10817 : 세 수](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj10817.py)
-  - [11653 : 소인수분해](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj11653.py)
-  - [1789 : 수들의 합](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj1789.py)
+  - [2935 : 소음](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj2935.py)
+  - [10817 : 세 수](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj10817.py)
+  - [11653 : 소인수분해](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj11653.py)
+  - [1789 : 수들의 합](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj1789.py)
 
 - 2022.03.03
 
-  - [3009 : 네 번째 점](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj3009.py)
-  - [10039 : 평균점수](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj10039.py)
-  - [1934 : 최소공배수](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj1934.py)
-  - [2480 : 주사위 세 개](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj2480.py)
-  - [4101 : 크냐?](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj4101.py)
-  - [10156 : 과자](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj10156.py)
+  - [3009 : 네 번째 점](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj3009.py)
+  - [10039 : 평균점수](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj10039.py)
+  - [1934 : 최소공배수](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj1934.py)
+  - [2480 : 주사위 세 개](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj2480.py)
+  - [4101 : 크냐?](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj4101.py)
+  - [10156 : 과자](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj10156.py)
 
 - 2022.03.04
 
-  - [2476 : 주사위 게임](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj2476.py)
-  - [2754 : 학점 계산](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj2754.py)
-  - [7567 : 그릇](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj7567.py)
-  - [5063 : TGN](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj5063.py)
-  - [10102 : 개표 ](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj10102.py)
-  - [10988 : 팰린드롬인지 확인하기](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj10988.py)
+  - [2476 : 주사위 게임](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj2476.py)
+  - [2754 : 학점 계산](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj2754.py)
+  - [7567 : 그릇](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj7567.py)
+  - [5063 : TGN](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj5063.py)
+  - [10102 : 개표 ](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj10102.py)
+  - [10988 : 팰린드롬인지 확인하기](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj10988.py)
 
 - 2022.03.05
 
-  - [10886 : 0 = not cute / 1 = cute](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj10886.py)
-  - [5086 : 배수와 약수](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj5086.py)
-  - [5717 : 상근이의 친구들](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj5717.py)
-  - [9610 : 사분면](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj9610.py)
+  - [10886 : 0 = not cute / 1 = cute](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj10886.py)
+  - [5086 : 배수와 약수](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj5086.py)
+  - [5717 : 상근이의 친구들](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj5717.py)
+  - [9610 : 사분면](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj9610.py)
 
 - 2022.03.06
 
-  - [9506 : 약수들의 합](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj9506.py)
-  - [10162 : 전자레인지](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj10162.py)
-  - [10103 : 주사위 게임](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj10103.py)
-  - [10214 : Baseball](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj10214.py)
+  - [9506 : 약수들의 합](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj9506.py)
+  - [10162 : 전자레인지](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj10162.py)
+  - [10103 : 주사위 게임](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj10103.py)
+  - [10214 : Baseball](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj10214.py)
 
 - 2022.03.27
 
-  - [11557 : Yangjojang of The Year](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj11557.py)
-  - [10757 : 큰 수 A+B ](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python_1to50/boj10757.py)
-  - [2440 : 별 찍기 - 3](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B_51to100/boj2440.py)
-  - [2441 : 별 찍기 - 4](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B_51to100/boj2441.py)
-  - [2442 : 별 찍기 - 5](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B_51to100/boj2442.py)
-  - [2443 : 별 찍기 - 6](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B_51to100/boj2443.py)
-  - [2444 : 별 찍기 - 7](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B_51to100/boj2444.py)
+  - [11557 : Yangjojang of The Year](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj11557.py)
+  - [10757 : 큰 수 A+B ](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj10757.py)
+  - [2440 : 별 찍기 - 3](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B/boj2440.py)
+  - [2441 : 별 찍기 - 4](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B/boj2441.py)
+  - [2442 : 별 찍기 - 5](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B/boj2442.py)
+  - [2443 : 별 찍기 - 6](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B/boj2443.py)
+  - [2444 : 별 찍기 - 7](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B/boj2444.py)
 
 - 2022.03.28
-  - [1977 : 완전제곱수](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B_51to100/boj1977.py)
-  - [2747 : 피보나치 수](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B_51to100/boj2747.py)
-  - [10797 : 10부제](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B_51to100/boj10797.py)
+
+  - [1977 : 완전제곱수](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B/boj1977.py)
+  - [2747 : 피보나치 수](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B/boj2747.py)
+  - [10797 : 10부제](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B/boj10797.py)
+
+- 2022.03.29
+
+  - [2751 : ]
+  - [10989 : 수 정렬하기3](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B/boj10989.py)
 
 ## 프로그래머스
 
