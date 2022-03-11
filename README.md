@@ -53,7 +53,7 @@
   - [10103 : 주사위 게임](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj10103.py)
   - [10214 : Baseball](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj10214.py)
 
-- 2022.03.27
+- 2022.03.07
 
   - [11557 : Yangjojang of The Year](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj11557.py)
   - [10757 : 큰 수 A+B ](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj10757.py)
@@ -63,16 +63,27 @@
   - [2443 : 별 찍기 - 6](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B/boj2443.py)
   - [2444 : 별 찍기 - 7](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B/boj2444.py)
 
-- 2022.03.28
+- 2022.03.08
 
   - [1977 : 완전제곱수](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B/boj1977.py)
   - [2747 : 피보나치 수](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B/boj2747.py)
   - [10797 : 10부제](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B/boj10797.py)
 
-- 2022.03.29
+- 2022.03.09
 
-  - [2751 : ]
+  - [2751 : 수 정렬하기2](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B/boj2751.py)
+  - [2953 : 나는 요리사다](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B/boj2953.py)
   - [10989 : 수 정렬하기3](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B/boj10989.py)
+
+- 2022.03.10
+
+  - [5653 : 생일](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B/boj5635.py)
+  - [9058 : 더하기](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B/boj9085.py)
+
+- 2022.03.11
+  - [2506 : 점수계산](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B/boj2506.py)
+  - [2010 : 플러그](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B/boj2010.py)
+  - [10872 : 팩토리얼](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B/boj10872.py)
 
 ## 프로그래머스
 
