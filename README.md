@@ -81,9 +81,17 @@
   - [9058 : 더하기](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B/boj9085.py)
 
 - 2022.03.11
+
   - [2506 : 점수계산](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B/boj2506.py)
   - [2010 : 플러그](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B/boj2010.py)
   - [10872 : 팩토리얼](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B/boj10872.py)
+
+- 2022.03.12
+
+  - [1037 : 약수](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B/boj1037.py)
+
+- 2022.03.13
+  - [5598 : 카이사르 암호](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B/boj5598.py)
 
 ## 프로그래머스
 
