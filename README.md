@@ -123,6 +123,14 @@
   - [Lv.1 두 개 뽐아서 더하기](https://github.com/kyhyun/Algorithm/blob/main/Programmers/Level_1/challange/%EB%91%90%EA%B0%9C%EB%BD%91%EC%95%84%EC%84%9C%EB%8D%94%ED%95%98%EA%B8%B0.js)
   - [Lv.1 약수의 개수와 덧셈](https://github.com/kyhyun/Algorithm/blob/main/Programmers/Level_1/challange/%EC%95%BD%EC%88%98%EC%9D%98%EA%B0%9C%EC%88%98%EC%99%80%EB%8D%A7%EC%85%88.js)
 
+
+## 강의
+- 2022.04.25 (인프런 강의)
+  - [기본문제 풀이 - 홀수](https://github.com/kyhyun/Algorithm/blob/main/Lecture/section1/basic6.js)
+  - [기본문제 풀이 - 10부제](https://github.com/kyhyun/Algorithm/blob/main/Lecture/section1/basic7.js)
+- 2022.04.26 (인프렁 강의)
+  - [기본문제 풀이 - 일곱 난쟁이](https://github.com/kyhyun/Algorithm/blob/main/Lecture/section1/basic8.js)
+  - [기본문제 풀이 - A를 #으로](https://github.com/kyhyun/Algorithm/blob/main/Lecture/section1/basic9.js)
 ## 릿코드
 
 **easy**
