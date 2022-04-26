@@ -12,19 +12,14 @@
 2. 대체할 문자열을 두 번째 인자로 전달한다
 */
 function solution(s) {
-  // const answer = s
-  //   .split("")
-  //   .map((value) => {
-  //     if (value === "A") {
-  //       return "#";
-  //     }
-  //     return value;
-  //   })
-  //   .join("");
-  // return answer;
-
-  const answer = s.replace(/[.]?A+/g, "#");
+  const answer = s
+    .split("")
+    .map((value) => (value === "A" ? "#" : value))
+    .join("");
   return answer;
+
+  // const answer = s.replace(/[.]?A+/g, "#");
+  // return answer;
 }
 
 let str = "BANANA";
