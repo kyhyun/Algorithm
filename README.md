@@ -125,16 +125,7 @@
 
 
 ## 강의
-- 2022.04.24 (인프런 - 자바스크립트 알고리즘 문제풀이)
-  - [기본문제 풀이 - 홀수](https://github.com/kyhyun/Algorithm/blob/main/Lecture/section1/basic6.js)
-  - [기본문제 풀이 - 10부제](https://github.com/kyhyun/Algorithm/blob/main/Lecture/section1/basic7.js)
-- 2022.04.25 (인프런 - 자바스크립트 알고리즘 문제풀이)
-  - [기본문제 풀이 - 일곱 난쟁이](https://github.com/kyhyun/Algorithm/blob/main/Lecture/section1/basic8.js)
-  - [기본문제 풀이 - A를 #으로](https://github.com/kyhyun/Algorithm/blob/main/Lecture/section1/basic9.js)
-- 2022.04.16 (인프런 - 자바스크립트 알고리즘 문제풀이)
-  - [기본문제 풀이 - 문자 찾기](https://github.com/kyhyun/Algorithm/blob/main/Lecture/section1/basic10.js)
-  - [기본문제 풀이 - 대문자 찾기](https://github.com/kyhyun/Algorithm/blob/main/Lecture/section1/basic11.js)
-  - [기본문제 풀이 - 대문자로 통일](https://github.com/kyhyun/Algorithm/blob/main/Lecture/section1/basic12.js)
+- [인프런 - 자바스크립트 알고리즘 문제풀이](https://github.com/kyhyun/Algorithm/tree/main/Lecture/inflearn)
 
 ## 릿코드
 
