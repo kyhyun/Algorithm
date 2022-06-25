@@ -124,6 +124,11 @@
   - [Lv.1 약수의 개수와 덧셈](https://github.com/kyhyun/Algorithm/blob/main/Programmers/Level_1/challange/%EC%95%BD%EC%88%98%EC%9D%98%EA%B0%9C%EC%88%98%EC%99%80%EB%8D%A7%EC%85%88.js)
 
 
+- 2022.06.25 (완전 탐색)
+  - [Lv.1 모의고사](https://github.com/kyhyun/Algorithm/blob/main/Programmers/Level_1/basic/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.js)
+  - [Lv.2 소수찾기](https://github.com/kyhyun/Algorithm/blob/main/Programmers/Level_2/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0.js)
+  - [Lv.2 카펫](https://github.com/kyhyun/Algorithm/blob/main/Programmers/Level_2/%EC%B9%B4%ED%8E%AB.js)
+
 ## 강의
 - [인프런 - 자바스크립트 알고리즘 문제풀이](https://github.com/kyhyun/Algorithm/tree/main/Lecture/inflearn)
 
