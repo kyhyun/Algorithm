@@ -1,11 +1,9 @@
 function solution(nums) {
-  let answer = nums.length / 2
-  let setNums = new Set(nums)
+  let max = nums.length / 2
+  let setArr = [...new Set(nums)]
 
-  if (answer > setNums.size) {
-    let diff = answer - setNums.size
-    answer -= diff
-  }
+  // 중복 제거한 선택 개수 > 폰켓몬 최대 선택 개수
+  if (setArr.length > max) return max
 
-  return answer
+  return setArr.length
 }
