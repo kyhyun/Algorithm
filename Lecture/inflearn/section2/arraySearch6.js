@@ -3,7 +3,7 @@
 문제 해결 과정
 - 각 행의 합, 열의 합, 두 대각선의 합 중 가장 큰 수를 출력한다
 1. 최대 값을 담을 변수, 합의 값을 담을 변수를 선언
-2.  이중 for 문에서 각 행의 합과 열의 합을 구한다
+2. 이중 for 문에서 각 행의 합과 열의 합을 구한다
   [v] 바깥 쪽 반복문이 한 차례 마치면, 합을 구한 변수 0으로 초기화
   [v] 각 행의 합 = arr[i][j]
   [v] 각 열의 합 = arr[j][i]
@@ -16,7 +16,7 @@
 6. answer을 결과 값으로 반환한다
 */
 function solution(arr) {
-  let answer = "";
+  let answer = '';
   const n = arr.length;
   let sum1, sum2;
   for (let i = 0; i < n; i++) {
