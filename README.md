@@ -36,7 +36,7 @@
   - [2754 : 학점 계산](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj2754.py)
   - [7567 : 그릇](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj7567.py)
   - [5063 : TGN](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj5063.py)
-  - [10102 : 개표 ](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj10102.py)
+  - [10102 : 개표](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj10102.py)
   - [10988 : 팰린드롬인지 확인하기](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj10988.py)
 
 - 2022.03.05
@@ -56,7 +56,7 @@
 - 2022.03.07
 
   - [11557 : Yangjojang of The Year](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj11557.py)
-  - [10757 : 큰 수 A+B ](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj10757.py)
+  - [10757 : 큰 수 A+B](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_python/boj10757.py)
   - [2440 : 별 찍기 - 3](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B/boj2440.py)
   - [2441 : 별 찍기 - 4](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B/boj2441.py)
   - [2442 : 별 찍기 - 5](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B/boj2442.py)
@@ -93,6 +93,8 @@
 - 2022.03.13
   - [5598 : 카이사르 암호](https://github.com/kyhyun/Algorithm/blob/main/BOJ/learning_C%2B%2B/boj5598.py)
 
+---
+
 ## 프로그래머스
 
 **Lv.1**
@@ -120,16 +122,54 @@
   - [Lv.1 : 나누어 떨어지는 숫자 배열](https://github.com/kyhyun/Algorithm/blob/main/Programmers/Level_1/basic/%EB%82%98%EB%88%84%EC%96%B4%EB%96%A8%EC%96%B4%EC%A7%80%EB%8A%94%EC%88%AB%EC%9E%90%EB%B0%B0%EC%97%B4.js)
 
 - 2022.03.08 (월간 코드 챌린지)
+
   - [Lv.1 두 개 뽐아서 더하기](https://github.com/kyhyun/Algorithm/blob/main/Programmers/Level_1/challange/%EB%91%90%EA%B0%9C%EB%BD%91%EC%95%84%EC%84%9C%EB%8D%94%ED%95%98%EA%B8%B0.js)
   - [Lv.1 약수의 개수와 덧셈](https://github.com/kyhyun/Algorithm/blob/main/Programmers/Level_1/challange/%EC%95%BD%EC%88%98%EC%9D%98%EA%B0%9C%EC%88%98%EC%99%80%EB%8D%A7%EC%85%88.js)
 
-
 - 2022.06.25 (완전 탐색)
+
   - [Lv.1 모의고사](https://github.com/kyhyun/Algorithm/blob/main/Programmers/Level_1/basic/%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.js)
-  - [Lv.2 소수찾기](https://github.com/kyhyun/Algorithm/blob/main/Programmers/Level_2/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0.js)
-  - [Lv.2 카펫](https://github.com/kyhyun/Algorithm/blob/main/Programmers/Level_2/%EC%B9%B4%ED%8E%AB.js)
+
+- 2022.06.28
+
+- [폰켓몬](https://github.com/kyhyun/Algorithm/blob/main/Programmers/Level_1/challange/%ED%8F%B0%EC%BC%93%EB%AA%AC.js)
+
+- 2022.07.31
+
+- [소수 만들기](https://github.com/kyhyun/Algorithm/blob/main/Programmers/Level_1/challange/%EC%86%8C%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0.js)
+
+- 2022.08.01
+- [최소 직사각형](https://github.com/kyhyun/Algorithm/blob/main/Programmers/Level_1/basic/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.js)
+
+- 2022.08.02
+
+- [크레인 인형뽑기](https://github.com/kyhyun/Algorithm/blob/main/Programmers/Level_1/challange/%ED%81%AC%EB%A0%88%EC%9D%B8%EC%9D%B8%ED%9https://github.com/kyhyun/Algorithm/blob/main/Programmers/Level_1/challange/%ED%8F%B0%EC%BC%93%EB%AA%AC.js8%95%EB%BD%91%EA%B8%B0%EA%B2%8C%EC%9E%84.js)
+
+- 2022.08.05
+- [신규 아이디 추천](https://github.com/kyhyun/Algorithm/blob/main/Programmers/Level_1/challange/%EB%A1%9C%EB%98%90%EC%9D%98%EC%B5%9C%EA%B3%A0%EC%88%9C%EC%9C%84%EC%99%80%EC%B5%9C%EC%A0%80%EC%88%9C%EC%9C%84.js)
+
+- 2022.08.06
+
+- [로또의 최저순위와 최고순위](https://github.com/kyhyun/Algorithm/blob/main/Programmers/Level_1/challange/%EB%A1%9C%EB%98%90%EC%9D%98%EC%B5%9C%EA%B3%A0%EC%88%9C%EC%9C%84%EC%99%80%EC%B5%9C%EC%A0%80%EC%88%9C%EC%9C%84.js)
+
+- 2022.08.14
+
+- [키패드 누르기](https://github.com/kyhyun/Algorithm/blob/main/Programmers/Level_1/challange/%ED%82%A4%ED%8C%A8%EB%93%9C%EB%88%84%EB%A5%B4%EA%B8%B0.js)
+
+---
+
+**Lv. 2**
+
+- [Lv.2 카펫](https://github.com/kyhyun/Algorithm/blob/main/Programmers/Level_2/%EC%B9%B4%ED%8E%AB.js)
+
+- 2022.06.25
+- [Lv.2 소수찾기](https://github.com/kyhyun/Algorithm/blob/main/Programmers/Level_2/%EC%86%8C%EC%88%98%EC%B0%BE%EA%B8%B0.js)
+
+- 2022.08.14 (정렬)
+- [가장 큰 수](https://github.com/kyhyun/Algorithm/blob/main/Programmers/Level_2/%EA%B0%80%EC%9E%A5%ED%81%B0%EC%88%98.js)
 
 ## 강의
+
 - [인프런 - 자바스크립트 알고리즘 문제풀이](https://github.com/kyhyun/Algorithm/tree/main/Lecture/inflearn)
 
 ## 릿코드
