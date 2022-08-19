@@ -41,18 +41,19 @@
   - [2. 팰린드롬](https://github.com/kyhyun/Algorithm/blob/main/Lecture/inflearn/section3/stringSearch2.js)
   - [3. 숫자만 추출](https://github.com/kyhyun/Algorithm/blob/main/Lecture/inflearn/section3/stringSearch3.js)
 - 2022.07.30
-  - [4. 문자거리]()
-  - [5. 문자열 압축]()
+  - [4. 가장 짧은 문자 거리](https://github.com/kyhyun/Algorithm/blob/main/Lecture/inflearn/section3/stringSearch4.js)
+  - [5. 문자열 압축](https://github.com/kyhyun/Algorithm/blob/main/Lecture/inflearn/section3/stringSearch5.js)
 
 **Section 4. 완전탐색(Blute Force)**
 
-- 2022.
-  - [1. 자리수의 합]()
-  - [2. 뒤집은 소수]()
-  - [3. 멘토링]()
-- 2022.
-  - [4. 졸업선물]()
-  - [5. K번째 큰 수]()
+- 2022.07.31
+  - [1. 자리수의 합](https://github.com/kyhyun/Algorithm/blob/main/Lecture/inflearn/section4/bruteForce1.js)
+  - [2. 뒤집은 소수](https://github.com/kyhyun/Algorithm/blob/main/Lecture/inflearn/section4/bruteForce2.js)
+- 2022.08.11
+  - [3. 멘토링](https://github.com/kyhyun/Algorithm/blob/main/Lecture/inflearn/section4/bruteForce3.js)
+  - [4. 졸업선물](https://github.com/kyhyun/Algorithm/blob/main/Lecture/inflearn/section4/bruteForce4.js)
+- 2022.08.19
+  - [5. K번째 큰 수](https://github.com/kyhyun/Algorithm/blob/main/Lecture/inflearn/section4/bruteForce5.js)
 
 **Section 5. 효율성(투포인터, 슬라이딩윈도우, 해쉬)**
 
